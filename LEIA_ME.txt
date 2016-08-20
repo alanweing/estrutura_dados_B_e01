@@ -1,0 +1,3 @@
+Para abrir o programa, executar apenas o arquivo init.py. Dentro desse são chamados todos os exercícios requisitados.
+-
+Para sair, a qualquer momento, pressione a combinação: 'CTRL + C'
